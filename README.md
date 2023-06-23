@@ -1,7 +1,7 @@
 # Hi there, I'm Eko Suprianto! 👋
 ### 🧑‍💻 About Me :
 
-#### I'm a Junior Fullstack Developer from Indonesia.
+#### I'm a Fullstack Web Developer from Indonesia.
 
 - I’ve been actively studying the full stack for 1+ years. 
 - Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team.
